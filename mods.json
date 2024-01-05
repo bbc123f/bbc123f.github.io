@@ -1,20 +1,23 @@
 [
     {
-        "Name": "Steal.lol",
-        "Version": "1.0.0",
-        "Author": "Kman",
-        "URI": "https://pro.com"
+        "Name": "BepInEx",
+        "Version": "5.4.22",
+        "Author": "BepInEx Team",
+        "URI": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip",
+        "Category":"Core"
     },
     {
-        "Name": "Steal.lol123",
-        "Version": "1.0.0",
-        "Author": "Kman",
-        "URI": "https://pro.com"
+        "Name": "More Company",
+        "Version": "1.7.2",
+        "Author": "notnotnotswipez",
+        "URI": "https://thunderstore.io/package/download/notnotnotswipez/MoreCompany/1.7.2/",
+        "Category":"Customization"
     },
     {
-        "Name": "Steal.lol12345",
-        "Version": "1.0.0",
-        "Author": "Kman",
-        "URI": "https://pro.com"
+        "Name": "More Suites",
+        "Version": "1.4.1",
+        "Author": " x753",
+        "URI": "https://thunderstore.io/package/download/x753/More_Suits/1.4.1/",
+        "Category":"Customization"
     }
 ]
