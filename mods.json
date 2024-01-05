@@ -1,20 +1,20 @@
-{
-    "Name" : "Steal.lol",
-    "Version":"1.0.0",
-    "Author":"Kman",
-    "URI":"https://pro.com"
-}
-
-{
-    "Name" : "Steal.lol123",
-    "Version":"1.0.0",
-    "Author":"Kman",
-    "URI":"https://pro.com"
-}
-
-{
-    "Name" : "Steal.lol12345",
-    "Version":"1.0.0",
-    "Author":"Kman",
-    "URI":"https://pro.com"
-}
+[
+    {
+        "Name": "Steal.lol",
+        "Version": "1.0.0",
+        "Author": "Kman",
+        "URI": "https://pro.com"
+    },
+    {
+        "Name": "Steal.lol123",
+        "Version": "1.0.0",
+        "Author": "Kman",
+        "URI": "https://pro.com"
+    },
+    {
+        "Name": "Steal.lol12345",
+        "Version": "1.0.0",
+        "Author": "Kman",
+        "URI": "https://pro.com"
+    }
+]
